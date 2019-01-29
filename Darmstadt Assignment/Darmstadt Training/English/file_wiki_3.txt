@@ -1,0 +1,147 @@
+
+	Wikinews has related news: SpaceX Falcon Heavy rocket blasts Elon Musk's personal Tesla into solar orbit
+In 2001, Musk conceptualized Mars Oasis, a project to land a miniature experimental greenhouse on Mars, containing food crops growing on Martian regolith, in an attempt to regain public interest in space exploration.[58][59] In October 2001, Musk travelled to Moscow with Jim Cantrell (an aerospace supplies fixer), and Adeo Ressi (his best friend from college), to buy refurbished Dnepr Intercontinental ballistic missiles (ICBMs) that could send the envisioned payloads into space. The group met with companies such as NPO Lavochkin and Kosmotras; however, according to Cantrell, Musk was seen as a novice and was consequently spat on by one of the Russian chief designers,[60] and the group returned to the United States empty-handed. In February 2002, the group returned to Russia to look for three ICBMs, bringing along Mike Griffin. Griffin had worked for the CIA's venture capital arm, In-Q-Tel, as well as NASA's Jet Propulsion Laboratory, and was just leaving Orbital Sciences, a maker of satellites and spacecraft. The group met again with Kosmotras, and were offered one rocket for US$8 million; however, this was seen by Musk as too expensive; Musk consequently stormed out of the meeting. On the flight back from Moscow, Musk realized that he could start a company that could build the affordable rockets he needed.[60] According to early Tesla and SpaceX investor Steve Jurvetson,[61] Musk calculated that the raw materials for building a rocket actually were only 3 percent of the sales price of a rocket at the time. It was concluded that theoretically, by applying vertical integration and the modular approach from software engineering, SpaceX could cut launch price by a factor of ten and still enjoy a 70-percent gross margin.[62] Ultimately, Musk ended up founding SpaceX with the long-term goal of creating a true spacefaring civilization.[63]
+
+
+Musk and President Barack Obama at the Falcon 9 launch site in 2010
+With US$100 million of his early fortune,[64] Musk founded Space Exploration Technologies, or SpaceX, in May 2002.[65] Musk is chief executive officer (CEO) and chief technology officer (CTO) of the Hawthorne, California-based company. SpaceX develops and manufactures space launch vehicles with a focus on advancing the state of rocket technology. The company's first two launch vehicles are the Falcon 1 and Falcon 9 rockets (a nod to Star Wars' Millennium Falcon), and its first spacecraft is the Dragon (a nod to Puff the Magic Dragon).[66] In seven years, SpaceX designed the family of Falcon launch vehicles and the Dragon multipurpose spacecraft. In September 2008, SpaceX's Falcon 1 rocket became the first privately funded liquid-fueled vehicle to put a satellite into Earth orbit.[37] On May 25, 2012, the SpaceX Dragon vehicle berthed with the ISS, making history as the first commercial company to launch and berth a vehicle to the International Space Station.[67]
+
+
+NASA Administrator Charles Bolden congratulates Musk in front of the Dragon capsule in 2012
+In 2006, SpaceX was awarded a contract from NASA to continue the development and test of the SpaceX Falcon 9 launch vehicle and Dragon spacecraft in order to transport cargo to the International Space Station,[68][not in citation given] followed by a US$1.6 billion NASA Commercial Resupply Services program contract on December 23, 2008, for 12 flights of its Falcon 9 rocket and Dragon spacecraft to the Space Station, replacing the US Space Shuttle after it retired in 2011.[69] Astronaut transport to the ISS is currently handled solely by the Soyuz, but SpaceX is one of two companies awarded a contract by NASA as part of the Commercial Crew Development program, which is intended to develop a US astronaut transport capability by 2018.[70]
+
+Musk believed that the key to making space travel affordable is to make rockets reusable, Though most experts in the space industry did not believe that reusable rockets were possible or feasible.[71] On December 22, 2015, SpaceX successfully landed the first stage of its Falcon rocket back at the launch pad. This was the first time in history such a feat had been achieved by an orbital rocket and is a significant step towards rocket reusability lowering the costs of access to space.[72] This first stage recovery was replicated several times in 2016 by landing on an autonomous spaceport drone ship, an ocean-based recovery platform,[73] and by the end of 2017, SpaceX had landed and recovered the first stage on 16 missions in a row where a landing and recovery were attempted, including all 14 attempts in 2017. 20 out of 42 first stage Falcon 9 boosters have been recovered overall since the Falcon 9 maiden flight in 2010.[74] In the most recent full year—2017—SpaceX launched 18 successful Falcon 9 flights, more than doubling their highest previous year of 8.[75]
+
+On February 6, 2018, SpaceX successfully launched the Falcon Heavy, the fourth-highest capacity rocket ever built (after Saturn V, Energia and N1) and the most powerful rocket in operation as of 2018. The inaugural mission carried a Tesla Roadster belonging to Musk as a dummy payload.[76]
+
+SpaceX is both the largest private producer of rocket engines in the world and holder of the record for the highest thrust-to-weight ratio for a rocket engine (the Merlin 1D).[77][78] SpaceX has produced more than 100 operational Merlin 1D engines. Each Merlin 1D engine can vertically lift the weight of 40 average family cars. In combination, the 9 Merlin engines in the Falcon 9 first stage produce anywhere from 5.8 to 6.7 MN (1.3 to 1.5 million pounds) of thrust, depending on altitude.[79]
+
+Musk was influenced by Isaac Asimov's Foundation series[80] and views space exploration as an important step in preserving and expanding the consciousness of human life.[81] Musk said that multiplanetary life may serve as a hedge against threats to the survival of the human species.
+
+An asteroid or a super volcano could destroy us, and we face risks the dinosaurs never saw: an engineered virus, inadvertent creation of a micro black hole, catastrophic global warming or some as-yet-unknown technology could spell the end of us. Humankind evolved over millions of years, but in the last sixty years atomic weaponry created the potential to extinguish ourselves. Sooner or later, we must expand life beyond this green and blue ball—or go extinct.
+
+Musk's goal is to reduce the cost of human spaceflight by a factor of 10.[82] In a 2011 interview, he said he hopes to send humans to Mars' surface within 10–20 years.[83] In Ashlee Vance's biography, Musk stated that he wants to establish a Mars colony by 2040, with a population of 80,000.[38] Musk stated that, since Mars' atmosphere lacks oxygen, all transportation would have to be electric (electric cars, electric trains, Hyperloop, electric aircraft).[84] Musk stated in June 2016 that the first unmanned flight of the larger Mars Colonial Transporter (MCT) spacecraft is aimed for departure to the red planet in 2022, to be followed by the first manned MCT Mars flight departing in 2024.[85] In September 2016, Musk revealed details of his architecture to explore and colonize Mars.[86] By 2016, Musk's private trust holds 54% of SpaceX stock, equivalent to 78% of voting shares.[87]
+
+In late 2017, SpaceX unveiled the design for its next-generation launch vehicle and spacecraft system—BFR—that would support all SpaceX launch service provider capabilities with a single set of very large vehicles: Earth-orbit, Lunar-orbit, interplanetary missions, and even intercontinental passenger transport on Earth, and totally replace the Falcon 9, Falcon Heavy and Dragon vehicles in the 2020s. The BFR will have a 9-meter (30 ft) core diameter. Significant development on the vehicles began in 2017, while the new rocket engine development began in 2012.[88][89]
+
+Tesla
+Main article: Tesla, Inc.
+Tesla, Inc. (originally Tesla Motors) was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning, who financed the company until the Series A round of funding.[90]
+
+Both men played active roles in the company's early development prior to Elon Musk's involvement.[91] Musk led the Series A round of investment in February 2004, joining Tesla's board of directors as its chairman.[92] Musk took an active role within the company and oversaw Roadster product design at a detailed level, but was not deeply involved in day-to-day business operations.[93]
+
+Following the financial crisis in 2008 and after a series of escalating conflicts in 2007, Eberhard was ousted from the firm.[71][94] Musk assumed leadership of the company as CEO and product architect, positions he still holds today. Tesla Motors first built an electric sports car, the Tesla Roadster in 2008, with sales of about 2,500 vehicles to 31 countries. Tesla began delivery of its four-door Model S sedan on June 22, 2012. It unveiled its third product, the Model X, aimed at the SUV/minivan market, on February 9, 2012; however, the Model X launch was delayed until September 2015.[95][96][97] In addition to its own cars, Tesla sells electric powertrain systems to Daimler for the Smart EV, Mercedes B-Class Electric Drive and Mercedes A Class, and to Toyota for the RAV4 EV. Musk was able to bring in both companies as long-term investors in Tesla.[98]
+
+
+Musk observing an assembly demo at the reopening of the NUMMI plant, now known as the Tesla Factory (Fremont, California) in 2010
+
+ 
+
+Musk and Senator Dianne Feinstein next to a Tesla Model S (2010)
+
+ 
+
+Musk standing in front of a Tesla Model S in 2011
+
+Musk has favored building a sub-US$30,000 compact Tesla model and building and selling electric vehicle powertrain components so that other automakers can produce electric vehicles at affordable prices without having to develop the products in-house; this led to the Model 3 that is planned to have a base price of US$35,000.[99] Several mainstream publications have compared him with Henry Ford for his work on advanced vehicle powertrains.[100]
+
+In a May 2013 interview with All Things Digital, Musk said that to overcome the range limitations of electric cars, Tesla is expanding its network of supercharger stations, tripling the number on the East and West coasts of the U.S. that June, with plans for more expansion across North America, including Canada, throughout the year.[101] As of January 29, 2016, Musk owns about 28.9 million Tesla shares, which equates to about 22% of the company.[102][103]
+
+As of 2014, Musk's annual salary is one dollar, similar to that of Steve Jobs and other CEOs; the remainder of his compensation is in the form of stock and performance-based bonuses.[104][105]
+
+In 2014, Musk announced that Tesla would allow its technology patents to be used by anyone in good faith in a bid to entice automobile manufacturers to speed up development of electric cars. "The unfortunate reality is electric car programs (or programs for any vehicle that doesn't burn hydrocarbons) at the major manufacturers are small to non-existent, constituting an average of far less than 1% of their total vehicle sales," Musk said.[106]
+
+In February 2016, Musk announced that he had acquired the Tesla.com domain name from Stu Grossman, who had owned it since 1992, and changed Tesla's homepage to that domain.[107]
+
+In January 2018, Musk was granted an option to buy up to 20.3 million shares if Tesla's market value were to rise to $650 billion. Majority shareholder approval was pending As of 5 March 2018.[108] The grant was also meant to end speculation about Musk's potential departure from Tesla to devote more time to his other business ventures.[109] A report by advisory firm Glass Lewis & Co. to its clients argued against granting the options.[108][needs update]
+
+The New York Post described the pending stock option grant as an "astronomical deal" in pay when it reported that Tesla accepted $750 million in public funds from New York Governor Andrew Cuomo as part of the Buffalo Billion project, a plan to invest money to help the economy of the Buffalo, New York area. The money was used to build a factory and infrastructure for solar panel maker SolarCity, which Tesla acquired. As of March 2018, the plant employed "just a few hundred workers and its future remains uncertain." (The Buffalo area actually lost nearly 5,000 jobs between December 2016 and December 2017).[110]
+
+
+Musk with Indian Prime Minister Narendra Modi in San Jose, California on September 26, 2015
+In September 2018, Musk was charged by the U.S. Securities and Exchange Commission for a tweet claiming that funding had been secured for taking Tesla private. The lawsuit characterized the tweet as false, misleading, and damaging to investors, and sought to bar Musk from serving as CEO on publicly traded companies.[111][112] Two days later, Musk reached a settlement with the SEC. As a result, Musk and Tesla were fined $20 million each, and Musk was forced to step down as Tesla chairman within 45 days while remaining Tesla's CEO.[113] Musk also proclaimed in several interviews since that he does not regret sending the tweet that triggered the SEC investigation. According to Reuters, Musk said the tweet that cost him and the company $20 million in fines was "Worth It".[114] Musk also went on to tweet on October 1, 2018 a link to "O.P.P." by Naughty by Nature as a take on what had happened between him and the SEC.
+
+According to ABC News, "As recently as Oct. 4, Musk issued a sarcastic tweet, describing the agency [SEC] as the “Shortseller Enrichment Commission,” despite having agreed to settlement terms a week earlier that his company, Tesla, would monitor his tweets and other communications."[115]
+
+Following Musk's resignation as chairman, Tesla named Robyn Denholm to replace Elon Musk as the acting chairman. This decision came after weeks of speculation on whether Tesla would nominate James Murdoch.[116]
+
+In January 2019, Musk traveled to China for the groundbreaking of Tesla's Shanghai Gigafactory, which is the company's first large-scale plant outside the U.S..[117] Part of his visit to China, Musk also met the Chinese premier Li Keqiang. During their exchange, Musk confessed his love for China and wished he could visit China more often, to which the Chinese premier was quoted as saying "We can issue you a Chinese green card if that helps."[118]
+
+SolarCity
+Main article: SolarCity
+Musk provided the initial concept and financial capital for SolarCity, which was then co-founded in 2006 by his cousins Lyndon and Peter Rive.[119][120] By 2013, SolarCity was the second largest provider of solar power systems in the United States.[121] SolarCity was acquired by Tesla, Inc. in 2016 and is currently a wholly owned subsidiary of Tesla.[122][123][124]
+
+The underlying motivation for funding both SolarCity and Tesla was to help combat global warming.[125] In 2012, Musk announced that SolarCity and Tesla are collaborating to use electric vehicle batteries to smooth the impact of rooftop solar on the power grid, with the program going live in 2013.[126]
+
+Gigafactory
+Main article: Gigafactory 2
+On June 17, 2014, Musk committed to building a SolarCity advanced production facility in Buffalo, New York, that would triple the size of the largest solar plant in the United States. Musk stated the plant will be "one of the single largest solar panel production plants in the world," and it will be followed by one or more even bigger facilities in subsequent years.[127] The Tesla Gigafactory 2 is a photovoltaic (PV) cell factory, leased by Tesla subsidiary SolarCity in Buffalo, New York. Construction on the factory started in 2014 and was completed in 2017.[128]
+
+Hyperloop
+Main articles: Hyperloop and Hyperloop pod competition
+On August 12, 2013, Musk unveiled a concept for a high-speed transportation system incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors.[129] The mechanism for releasing the concept was an alpha-design document that, in addition to scoping out the technology, outlined a notional route where such a transport system might be built: between the Greater Los Angeles Area and the San Francisco Bay Area.[130]
+
+After earlier envisioning Hyperloop, Musk assigned a dozen engineers from Tesla and SpaceX who worked for nine months, establishing the conceptual foundations and creating the designs for the transportation system.[131][132] An early design for the system was then published in a whitepaper posted to the Tesla and SpaceX blogs.[133][134][135] Musk's proposal, if technologically feasible at the costs he has cited, would make Hyperloop travel cheaper than any other mode of transport for such long distances. The alpha design was proposed to use a partial vacuum to reduce aerodynamic drag, which it is theorized would allow for high-speed travel with relatively low power, with certain other features like air-bearing skis and an inlet compressor to reduce freestream flow. The document of alpha design estimated the total cost of an LA-to-SF Hyperloop system at US$6 billion, but this amount is speculative.[136]
+
+In June 2015, Musk announced a design competition for students and others to build Hyperloop pods to operate on a SpaceX-sponsored mile-long track in a 2015–2017 Hyperloop pod competition. The track was used in January 2017, and Musk also started building a tunnel.[137]
+
+Hyperloop One, a company unaffiliated with Musk, had announced that it had done its first successful test run on its DevLoop track in Nevada on July 13, 2017. It was on May 12, 2017, at 12:02 a.m. and had lasted 5.3 seconds, reaching a top speed of 70 mph.[138]
+
+On July 20, 2017, Elon Musk announced that he had gotten verbal government approval to build a hyperloop from New York City to Washington, D.C., stopping in both Philadelphia and Baltimore.[139] However, the New York City Transit Authority, Southeastern Pennsylvania Transportation Authority, Washington Metropolitan Area Transit Authority, Maryland Transit Administration, United States Department of Homeland Security, as well as the mayors of New York, Philadelphia, Baltimore, and Washington D.C. stated that they are unaware of any such agreement.[140]
+
+OpenAI
+Main article: OpenAI
+In December 2015, Musk announced the creation of OpenAI, a not-for-profit artificial intelligence (AI) research company. OpenAI aims to develop artificial general intelligence in a way that is safe and beneficial to humanity.[141]
+
+By making AI available to everyone, OpenAI wants to "counteract large corporations who may gain too much power by owning super-intelligence systems devoted to profits, as well as governments which may use AI to gain power and even oppress their citizenry."[142] Musk has stated he wants to counteract the concentration of power.[34] In 2018 Musk left the OpenAI board to avoid possible future conflicts with his role as CEO of Tesla as Tesla increasingly becomes involved in AI.[143]
+
+However, in an interview with Joe Rogan in September 2018, Musk warned about the dangers of developing artificial intelligence indiscriminately.
+
+Neuralink
+Main article: Neuralink
+In 2016, Musk co-founded Neuralink, a neurotechnology startup company to integrate the human brain with artificial intelligence. The company is centered on creating devices that can be implanted in the human brain, with the eventual purpose of helping human beings merge with software and keep pace with advancements in artificial intelligence. These enhancements could improve memory or allow more direct interfacing with computing devices.[144] Musk sees Neuralink and OpenAI as related: "OpenAI is a nonprofit dedicated to minimizing the dangers of artificial intelligence, while Neuralink is working on ways to implant technology into our brains to create mind-computer interfaces."[34]
+
+The Boring Company
+Main article: The Boring Company
+
+Musk discussing The Boring Company at TED 2017
+On December 17, 2016, while stuck in traffic, Musk tweeted "Am going to build a tunnel boring machine and just start digging ..." The company was named 'The Boring Company'.[145] On January 21, 2017, Musk tweeted "Exciting progress on the tunnel front. Plan to start digging in a month or so."[146] The first tunnel will start on the SpaceX campus,[147] The Boring Test Tunnel runs underneath West 120th Street. As of January 26, 2017, discussions with regulatory bodies had begun.[148]
+
+In February 2017, the company began digging a 30-foot-wide, 50-foot-long, and 15-foot-deep "test trench" on the premises of Space X's offices in Los Angeles, since the construction requires no permits.[149][150] Musk had said in early 2017 that a 10-fold decrease in tunnel boring cost per mile is necessary for economic feasibility of the proposed tunnel network.[151] By late 2018, TBC had active construction, approved plans in place, or an operational tunnel in several areas of the United States: Baltimore,[152] Chicago[153] and Los Angeles. TBC provided an update on the state of their technology and product line when they opened to the public their first mile-long test tunnel in Hawthorne, California, on 18 December 2018, stating that it has been a proof-of-concept for the technology.[154][155] Design is complete for the third-generation Boring TBM, Prufrock, slated to support a 15x improvement in tunneling speed over the existing state of the art, and the machine will be assembled and begin engineering testing in 2019.[154]:15:18–15:45
+
+pravduh.com
+After a string of negative press targeting Tesla caused Musk to become frustrated,[156] specifically articles published by Reveal News criticizing Tesla for its factory safety procedures,[157] Musk announced on Twitter that he is planning on creating a website where users could rate the truthfulness of specific articles in addition to the credibility of journalists and publications.[158] He suggested calling it "Pravda" after a Soviet Union-era Communist Party newspaper of the same name.
+
+This caused backlash from many journalists, claiming that a platform where any user could freely vote on an article's or a journalist's credibility could be prone to abuse.[159][160]
+
+After realizing the site "pravda.com" is used by the Ukrainian Internet newspaper Ukrayinska Pravda, Musk bought the site pravduh.com on May 25, 2018.[161]
+
+Tham Luang cave rescue
+In July 2018, Musk attempted to provide assistance to rescuers during the Tham Luang cave rescue by ordering his employees to build a small rescue pod.
+
+Musk, responding to requests for help from Twitter users,[162] contacted James Yenbamroong, CEO of Thailand-based satellite company Mu Space, to get him connected with the Thai government.[163] He then ordered engineers from two of his companies to design a child-sized submarine to help the rescue effort and publicised the process via Twitter.[164][165] Engineers at Musk's companies SpaceX and The Boring Company built the mini-submarine out of a Falcon 9 liquid oxygen transfer tube[166] and personally delivered it to Thailand.
+
+Named "Wild Boar" after the children's soccer team,[167] its design, a five-foot (1.5 m)-long, twelve-inch (300 mm)-inch wide sealed tube weighing about 90 pounds (41 kg) propelled manually by divers in the front and back,[168] was intended to solve the problem of safely transporting the children, who might have had difficulty learning the scuba skills required to exit the cave on their own without panicking.[169] In case the mini-submarine could not fit through the cave system, Elon Musk also requested Wing Inflatables, a California-based inflatable boat manufacturer, to build inflatable escape pods. The pods were designed, fabricated, and tested in one day before being flown to Thailand.[170][171]
+
+By this time, eight of the twelve children had already been rescued and Thai authorities decided not to use the submarine, describing it as technologically impressive but impractical.[172][173][174]
+
+Device viability
+The supervisor of the rescue operation Narongsak Osatanakorn dismissed the submarine as impractical under the current circumstances. A rescue caver who had been exploring the cave for the past six years and who had originally located the trapped football team, said that Musk's idea "had absolutely no chance of working ... the submarine, I believe, was about five foot six long, rigid, so it wouldn't have gone round corners or round any obstacles. It wouldn't have made the first 50 metres into the cave from the dive start point."[175][176] Musk tweeted that Richard Stanton, leader of the international diving team, had earlier urged Musk to continue construction of the mini-submarine as a back-up, in case the flooding worsened.[177]
+
+Although the device could safely hold an occupant, there were concerns that its rigid body was only slightly smaller than the narrowest passages in the cave, making it risky to get it through the tighter turns.[167]
+
+Media coverage and Musk's behavior
+As media coverage of the event grew, some were skeptical of Musk's intentions, claiming the submarine was mainly built for publicity for Tesla and Musk, citing the apparent uselessness of the device.[178][179][180]
+
+One of the divers said to have played a major role in the rescue criticized the submarine as amounting to nothing more than a public relations effort with no chance of success, and that Musk "had no conception of what the cave passage was like";[181] and said that Musk "can stick his submarine where it hurts". Musk reasserted on Twitter that the device would have worked and referred to the diver as "pedo guy" without offering any evidence to support the claim, causing backlash against Musk.[182][183] He subsequently deleted the tweets, along with an earlier tweet in which he told another critic of the device "Stay tuned jackass".[183] On 16 July, the diver stated that he was considering legal action in relation to Musk's comments.[184][185]
+
+After Musk's Tweets, Tesla shares fell 4% as some investors worried about his erratic behavior.[186] Tesla investors subsequently demanded that Musk apologize.[187] Two days later, Musk issued an apology for his remarks:[188][189] "The fault is mine and mine alone"[190] and "my words were spoken in anger".[191]
+
+On August 28, 2018, in response to criticism from a writer on Twitter regarding how Musk had handled the diver's criticism, Musk circled back to the pedophilia accusation tweeting "You don't think it's strange he hasn't sued me? He was offered free legal services. ...".[192] The following day, a letter from L. Lin Wood, the rescuer's attorney, dated August 6, emerged, showing that he had been making preparations for a libel lawsuit.[193][194]
+
+On 5 September 2018, a reporter from Buzzfeed News published an email written by Musk on August 30 marked "off the record", saying "I suggest that you call people you know in Thailand, find out what's actually going on and stop defending child rapists, you fucking asshole. As for this alleged threat of a lawsuit, which magically appeared when I raised the issue ... I fucking hope he sues me." Musk confirmed that he had sent the email.[195] The diver subsequently filed a defamation suit in Los Angeles federal court in mid-September 2018, with plans to also file a similar case in the United Kingdom. The lawsuit contends that "Musk embarked on a PR campaign to destroy [the diver]'s reputation by publishing false and heinous accusations of criminality against him to the public", and seeks upwards of US$75,000 in damages.[196][197][needs update]
+
+Teslaquila
+Musk first mentioned Teslaquila in an April Fools tweet in 2018.[198] The proposed Tesla-branded tequila become closer to a reality in October 2018 as Tesla filed an 'intent to use' trademark application with the U.S. Patent and Trademark Office.[199] The trademark is for distilled agave liquor. Musk reaffirmed his intention to release the product with a tweet, featuring a mockup of the bottle, on October 12.[200]
+
+Mexico's Tequila Regulatory Council (CRT) has publicly denounced the proposed product, arguing, "If it wants to make Teslaquila viable as a tequila it would have to associate itself with an authorized tequila producer, comply with certain standards and request authorization from Mexico's Industrial Property Institute".[201]

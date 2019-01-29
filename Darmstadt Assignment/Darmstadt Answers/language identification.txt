@@ -1,0 +1,8 @@
+unknown0005.txt is written in Frisian language
+unknown0003.txt is written in German language
+unknown0004.txt is written in Low german language
+unknown0002.txt is written in Dutch language
+unknown0007.txt is written in Low german language
+unknown0008.txt is written in English language
+unknown0006.txt is written in Dutch language
+unknown0001.txt is written in English language

@@ -1,0 +1,300 @@
+
+3.3	It Midfryske tiidrek
+3.4	It Nijfryske tiidrek
+3.5	De Fryske Beweging
+3.6	Kneppelfreed
+3.7	Nei Kneppelfreed
+4	Hjoeddeistige taalsitewaasje
+4.1	Tal sprekkers
+4.2	Taalbehearsking
+4.3	Dialekten
+4.4	De Fryske standerttaal
+5	Taalgebrûk
+5.1	Yn it bestjoer en it rjochtsferkear
+5.1.1	Offisjele status en rjochtsjildigens
+5.1.2	Jeropeeske erkenning
+5.1.3	Fryske plak- en wetternammen
+5.2	Yn it ûnderwiis
+5.2.1	Yn it basis- en fuortset ûnderwiis
+5.2.2	Yn it heger ûnderwiis
+5.3	Yn 'e media
+5.3.1	Yn 'e deiblêden
+5.3.2	Yn famyljeberjochten
+5.3.3	Yn tydskriften
+5.3.4	Op 'e radio
+5.3.5	Op 'e tillefyzje
+5.3.6	Op it ynternet
+5.4	Yn 'e keunsten
+5.4.1	Yn 'e literatuer
+5.4.2	Yn 'e muzyk
+5.4.3	Yn teäter en toaniel
+5.4.4	Yn film en tillefyzjedrama
+5.5	Yn 'e tsjerken
+6	Taaleigenskippen
+6.1	Grammatika
+6.1.1	Namfallen
+6.1.2	Sinsbou
+6.1.3	Brekking
+6.1.4	Ferkoarting
+6.1.5	Einûntstimming
+6.2	Wurdskat
+6.2.1	Nederlânske ynfloed
+6.2.2	Frânske ynfloed
+6.2.3	Ingelske ynfloed
+6.2.4	Ynternasjonalismen
+6.2.5	Fêstlizzing fan 'e wurdskat
+6.3	Wurdfoarming
+6.4	Stavering
+6.5	Fonology
+6.5.1	Fokalen
+6.5.2	Klankynventaris (fokalen)
+6.5.3	Konsonanten
+6.5.4	Klankynventaris (konsonanten)
+7	Foarútsichten
+8	ISO 639-Taalkoades
+9	Sjoch ek
+10	Keppelings om utens
+10.1	Oerheid
+10.2	Algemien
+10.3	Kultuer
+10.4	Media
+10.5	Ynternet
+11	Boarnen, noaten en referinsjes
+Taalsibskip
+
+Taalgebiet fan de trije moderne Fryske talen.
+It Frysk heart ta de grutte Yndo-Jeropeeske taalfamylje, dy't bygelyks ek talen as it Frânsk, Gryksk, Russysk, Perzysk en Hindy omfiemet. Mei û.m. it Deensk, Noarsk en Sweedsk wurdt it ta de Germaanske talen rekkene, en dêrbinnen foarmet it mei bygelyks it Dútsk, Nederlânsk en Jiddysk de Westgermaanske taalgroep. It Frysk is lykwols nauwer besibbe oan it Ingelsk en it Skotsk, wêrmei't it de Noardwestgermaanske talen foarmet. Dy falle dan wer útinoar yn 'e Angelsaksyske talen en de Fryske talen.
+
+Men wol wol hawwe dat it (Westerlauwersk) Frysk de taal is dy't it naust oan it Ingelsk besibbe is, mar noch ôfsjoen fan it feit dat men dêrby foarbygiet oan 'e oare Fryske talen en oan oare Angelsaksyske talen lykas it Skotsk, is dat al lang net mear wier. Yn 'e Midsiuwen wiene it Aldfrysk en it Aldingelsk (of Angelsaksysk) inoar yndie net wanlyk, mar troch de oanhâldende ynfloed fan (ferskillende) oanbuorjende talen en oare omstannichheden binne it Ingelsk en it Frysk troch de iuwen hinne sterk útinoar groeid. Ien fan 'e wichtichste ferskillen is datoangeande de ûnbidige ynfloed dy't it Frânsk sûnt de Normandyske Ynfaazje fan 1066 op it Ingelsk útoefene hat, wylst it Frysk, benammen fan 'e sechstjinde iuw ôf, krekt in sterke Nederlânske ynfloed ûndergien hat. De oerienkomsten dy't der hjoed-de-dei noch binne tusken it Frysk en Ingelsk sjocht men inkeld noch yn 'e basis wurdskat, alsa yn wurden dy't frekwint brûkt wurde en dy't der bygelyks om it jier 1300 ek al wienen lykas tsiis (cheese) en kaai (key).
+
+
+De taalsitewaasje yn Noard-Nederlân.
+It (Westerlauwersk) Frysk is it naust besibbe oan 'e oare beide Fryske talen, it Noardfrysk en it Sealterfrysk. It Noardfrysk wurdt sprutsen yn Noard-Fryslân, oan 'e Noardseekust fan 'e Dútske dielsteat Sleeswyk-Holstein, krekt besuden de Deenske grins. It Sealterfrysk wurdt yn 'e krite Sealterlân, tusken Aldenboarch, Kloppenboarch en de Nederlânske grins sprutsen, yn 'e Dútske dielsteat Nedersaksen. Dy taalfoarm is it iennichste noch libbene dialekt fan it Eastfrysk (of Easterlauwersk Frysk), wêrfan't it taalgebiet yn earder tiid fan 'e Lauwers oant de Wezer rûn. De trije Fryske talen binne lykwols al yn 'e Midsiuwen elk har eigen paad gien, en binne no al lang net mear ûnderling fersteanber.
+
+Ferlykje de folgjende wurden yn it Westerlauwersk Frysk, it Sealterfrysk, it Noardfrysk fan it fêstelân (yn it Mooring-dialekt) en it Noardfrysk fan 'e eilannen (yn it Fering-dialekt):
+
+taal	foarbyldwurden
+Westerlauwersk Frysk:	holle	foarholle	each	noas	mûle	tosk	kin	wang	ear
+Sealterfrysk:	Kop	Stierne	Oge	Nose	Mule	Tusk	Keeuwe	Soke	Oor
+Noardfrysk:
+(Mooring)	hood	foorhood	uug	noos	müs	täis	kan	siik	uur
+Noardfrysk:
+(Fering)	hood	braanj	uug	nöös	mös	tus	kan	sjuuk	uar
+Taalgebiet
+It Frysk wurdt sprutsen op it fêstelân fan 'e Nederlânske provinsje Fryslân, útsein de Stellingwerven yn it súdeasten, eastlik Kollumerlân yn it noardeasten en it Bilt, de âlde mûning fan 'e Middelsee, yn it noarden. Op 'e Waadeilannen wurdt Frysk sprutsen op Skiermûntseach en de westlike en eastlike úteinen fan Skylge, mar net op it Amelân of Flylân, en likemin yn 'e omkriten fan it doarp Midslân, op 'e midden fan Skylge. Fierders sprekt men ek Frysk yn in lyts part fan 'e provinsje Grinslân dat tsjin Fryslân oanleit, yn 'e trijehoeke dy't bestiet út 'e plakken Mearum, De Wylp en De Grinzer Pein.
+
+Behalven Frysk wurde yn 'e provinsje Fryslân ek ferskate net-Fryske streektalen sprutsen, dy't yndield wurde kinne yn twa kategoryen. Yn it foarste plak binne der de Nedersaksyske dialekten, dy't lânseigen binne yn 'e súdeastlike râne fan 'e provinsje. It Stellingwerfsk is dêrfan it grutst en bekendst, mar fierders wurdt yn eastlik Kollumerlân in foarm fan Westerkertiersk sprutsen dy't wol betitele wurdt as Kollumerlânsk, wylst it doarp Kollumerpomp syn eigen dialekt hat, it Pompstersk. Dêrnjonken binne der dan noch de Hollânske dialekten, wêrfan't it no útstoarne Flylânsk as Westfrysk klassifisearre wurde kin, wylst it Midslânsk, Amelânsk, Biltsk en Stedsk mei-inoar de Hollânsk-Fryske mingdialekten foarmje.
+
+De Stedske dialekten hiene foarhinne in tige hege maatskiplike status as taal fan 'e adel en de boargerlike hegerein, mar binne sûnt de ein fan 'e njoggentjinde iuw yn dit opsjoch op har retoer. Sadwaande, en troch it ferfarren fan in protte Frysktaligen fan it plattelân nei de stêd, hat it Frysk yn 'e tweintichste iuw ek wer foet oan 'e grûn krigen yn 'e Fryske stêden, dêr't it earder frijwol net mear brûkt waard. Dêrby moat wol oantekene wurde dat de Frysktaligens fan stedsjers faak fan tydlike aard is, mei't de twadde generaasje him yn syn taalkar faak al oanpast oan it Nederlânsk. Fierders moat op dit mêd ek ûnderskie make wurde tusken de ferskillende stêden. Yn Ljouwert hat it Frysk bgl. folle minder draachflak as yn Dokkum. Ek yn Harns hat men fan âlds in minder positive ynstelling foar it Frysk oer.
+
+
+Terreinferlies fan it Frysk yn Nederlân troch de iuwen hinne.
+Skiednis
+Prehistoarje
+Foar it ûntstean fan it Frysk moat der yn it gebiet dat no Fryslân foarmet, in oare taal sprutsen wêze, mooglik troch de oarspronklike bewenners fan dizze kontreien, foar't de Germanen dêr't de Friezen fan ôfstamje harren hjirre nei wenjen setten. Dy taal wurdt wol oantsjut as Pre-Frysk, mar de taalkundigen binne it der net oer iens oft der fan dy substraattaal yn it hjoeddeiske Frysk noch spoaren werom te finen binne.
+
+Tsjin 'e trêde iuw begûn him út it Noardwestgermaansk fan 'e Friezen in eigen taal te ûntwikkeljen. It ierste stadium dêrfan, doe't it noch in dialekt wie, wurdt wol it Proto-Frysk of primityf Frysk neamd. Dizze taalfoarm is inkeld bewarre bleaun yn koarte, isolearre en fragmintaryske rune-ynskriften, dy't faak dreech oersetber en foar mearderlei útlis fetber binne. In bettere boarne lykje sadwaande âlde plaknammen te wêzen, dy't earst sûnt 700 lûdsferskynsels sjen litte dy't ûnderskiedend binne foar it Frysk. Dêrom ornearret men yn 'e regel dat der pas om dy tiid hinne in as sadanich werkenbere Fryske taal ûntstien is.
+
+Fan 'e sânde oant de santjinde iuw hat it Frysk oanhâldend terrein priisjaan moatten oan it Hollânsk en it Nedersaksysk. Sûnt de santjinde iuw is it Fryske taalgebiet yn Nederlân lykwols min ofte mear gelyk bleaun. De lettere skiednis fan 'e Fryske taal wurdt ornaris opdield yn trije tiidrekken, nammentlik dy fan it Aldfrysk (1150-1550), it Midfrysk (1550-1820) en it Nijfrysk (1820-hjoed). Guon taalkundigen beskôgje it Midfrysk lykwols net as in aparte perioade mar diele it by it Nijfrysk yn.
+
+
+De earste side fan it Freeska Landriucht, it earste printe boek yn it Frysk, datearjend fan omtrint 1485.
+It Aldfryske tiidrek
+ De Wikipedy hat ek in side Aldfrysk.
+De Aldfryske perioade begûn eins daliks nei it ûntstean fan it Frysk yn 'e sânde iuw, mar om't it mar oerlevere is fan likernôch 1150 ôf, wurdt dat jier gauris as begjin oanholden. Yn dizze snuorje kamen yn it Frysk noch namfallen foar en wie der ûnderskie tusken de manlike en froulike grammatikale geslachten.
+
+De âldste oerlevere Fryske tekst wie lang in fragmintaryske psalmoersetting út 'e ein fan 'e tolfde iuw, mar yn 2015 waard yn in fierders Latynsktalich manuskript in koarte notysje yn it Aldfrysk ûntdutsen, besteande út 'e wurden Lesa mi, helpe mi ("Ferlos my, help my"), dy't datearret út 'e perioade 1100-1125.[1] Alle oare oerlevere teksten, benammentlik rjochtshânskriften, binne fan 'e trettjinde iuw of letter. De measten datearje út 'e fjirtjinde en fyftjinde iuw, want tusken 1300 en 1500 belibbe it Frysk in grutte bloeitiid as skriuwtaal. It waard brûkt yn alle fasetten fan it bestjoer yn Fryslân, en wie sa wichtich, dat al om 1485 hinne it earste drukte boek yn it Frysk ferskynde, de Alde Druk fan it Fryske Lânrjocht. Dat is foar sa'n lytse taal tige seldsum, mei't de boekdrukkeunst amper 35 jier earder útfûn wie.
+
+Om 1500 hinne kaam oan 'e bloeitiid fan it Frysk lykwols abrupt in ein. Foar in grut part wie dat in gefolch fan 'e machtsoername troch Albrecht fan Saksen, yn 1498, dy't it Frysk as bestjoerstaal ferfong troch it Hollânsk en yn 'e jierren dêrnei in grut tal útlânske amtners oanloek. It Frysk waard weromkrongen nei it plattelân, dêr't it, relatyf isolearre fan it Hollânsk troch de minne ferbinings fan dy tiid, as sprektaal fan frijwol de hiele befolking fuortlibbe. De ein fan 'e Aldfryske perioade, dy't ornaris om 1550 hinne lein wurdt, kin lykslein wurde mei dizze weromfal fan skriuw- ta sprektaal.
+
+
+It stânbyld foar Gysbert Japiks yn Boalsert.
+It Midfryske tiidrek
+ De Wikipedy hat ek in side Midfrysk.
+It begjin fan 'e Midfryske perioade (1550-1820) foel rûchwei gear mei it begjin fan 'e Tachtichjierrige Oarloch (1568) en it ûntstean fan 'e Republyk fan de Feriene Provinsjes (1585). Hoewol't der dus in nije snuorje fan frijheid oanbriek, krige it Frysk syn posysje fan foar 1498 net werom. Dat hie alles te krijen mei de opkomst fan Hollân as it oerhearskjende part fan 'e Republyk en fan it Hollânsk as de dominante taal yn bestjoerlike, juridyske en religieuze oangelegenheden. Benammen it ferskinen fan 'e Steatefertaling (de troch de Steaten-Generaal autorisearre oersetting fan 'e Bibel), yn 1637, wie in mylpeal foar de ynfloed en fersprieding fan it Hollânsk, en hie jammerdearlike gefolgen foar de status en wurdskat fan it Frysk en oare minderheidstalen en dialekten yn 'e Republyk. Ek de Universiteit fan Frjentsjer, de tsjerke as ynstitút, it ûnderwiis en letter de parse hawwe neat bydroegen oan it behâld fan it Frysk.[2]
+
+Yn it Midfryske tiidrek waard der sadwaande ek hast neat yn it Frysk skreaun, behalven sprekwurdesamlings en it wurk fan guon gelegenheidsdichters. De grutte útsûndering op dy regel wie Gysbert Japiks (1603-1666), in skoalmaster en foarsjonger út Boalsert, en ien fan 'e grutste skriuwers en dichters dy't it Frysk ea fuortbrocht hat. Mei syn dichtwurk, oersettings, brieven en benammen mei syn postúm yn 1668 ferskynde Friesche Rymlerye lei hy de grûnslach foar de moderne Fryske literatuer en stavering.
+
+
+Joast Hiddes Halbertsma.
+It Nijfryske tiidrek
+ De Wikipedy hat ek in side Nijfryske literatuer.
+Nei Gysbert Japiks syn dea duorre it oant it begjin fan 'e njoggentjinde iuw foar't syn oanset in ferfolch krige. Dat foel gear mei it begjin fan 'e Nijfryske perioade, dat ornaris om 1820 hinne pleatst wurdt, om't him doe de saneamde nijere brekking, in tige wichtige taalkundige fernijing, yn it Frysk oppenearre. Fierwei it wichtichst ûnder de Fryske skriuwers en dichters fan 'e earste helte fan 'e njoggentjinde iuw wiene de bruorren Halbertsma: Joast Hiddes Halbertsma (1789-1869), minnistysk dûmny te Boalsert en nei 1822 te Dimter, en Eeltsje Hiddes Halbertsma (1797-1858), dokter te Grou. De trêde broer, Tsjalling Hiddes Halbertsma (1792-1852), dy't bûterkeapman te Grou wie, stie wat de literêre ynhâld fan syn wurk oanbelange yn it skaad fan syn bruorren, mar syn folkslektuer foel der wakker yn by de gewoane man. It samle wurk fan 'e bruorren Halbertsma waard yn 1822 útjûn as in boekje fan 36 siden, yn in oplaach fan twahûndert eksimplaren, ûnder de titel De Lapekoer fen Gabe Skroor. De twadde printinge, út 1829, hie 237 siden en de trêde, út 1834, hast 500. Dêrnei waarden oanfollings apart publisearre yn 1836, 1840, 1845 en 1858. Letter waard al it wurk fan 'e Halbertsma's sammele om postúm te ferskinen as it masterwurk Rimen en Teltsjes, it Fryske nasjonale literêre boek, dêr't yn 1993 de tsiende printinge fan útkaam en dat noch altiten populêr is.
+
+Oare wichtige Fryske skriuwers en dichters út 'e njoggentjinde iuw wiene û.m.: Harmen Sytstra (1817-1862), Hjerre Gjerrits van der Veen (1816-1887), Waling Dykstra (1829-1914), Tsjibbe Gearts van der Meulen (1824-1906), Lútzen Harmens Wagenaar (1855-1910) en Piter Jelles Troelstra (1860-1930). Dyselde wie njonken oprjochter en earste lieder fan 'e SDAP ek skriuwer fan in grut tal Fryske gedichten en lieten, dêr't It Aldershûs en Eala Fria Fresena tsjintwurdich de bekendsten fan binne. By dizze opsomming mei fierders ek Troelstra syn earste frou, Sjoukje Maria Diederika Bokma de Boer (1860-1939) net ûntbrekke, dy't sawol yn it Frysk as yn it Nederlânsk skreau en nasjonale ferneamdens krige ûnder har pseudonym Nynke van Hichtum, mei har boek Afke's Tiental (letter oerset yn it Frysk as De Tsien fan Martens Afke).
+
+
+De dichter Obe Postma.
+Yn 'e tweintichste iuw waard de renêssânse fan 'e Fryske literatuer fuortset troch skriuwers en dichters as Obe Postma (1868-1963), Geart Aeilco Wumkes (1869-1954), Simke Kloosterman (1876-1938), Reinder Brolsma (1882-1953), Eeltsje Boates Folkertsma (1893-1968), Fedde Schurer (1898-1968), Ulbe van Houten (1904-1974), Nyckle J. Haisma (1907-1943), Douwe Annes Tamminga (1909-2002), Hylkje Goïnga (1930-2001), Rink van der Velde (1932-2001), Trinus Riemersma (1938-2011) en withoefolle oaren. In apart plak wurdt ynnommen troch oersetters, lykas Douwe Kalma (1896-1953), dy't it hiele oeuvre fan Shakespeare nei it Frysk ta oerbrocht, en Klaas Bruinsma (1931), dy't al sûnt de jierren santich yn 't spier is om 'e Aldgrykske toanielstikken fan Sofokles, Aiskylos, Euripides en Aristofanes yn it Fryske oer te setten, en fierders de Ilias en de Odyssee fan Homearus en oare epyske wurken út 'e Klassike Aldheid, mar dêrnjonken ek Midsiuwske ridderromans, Latynske hilligelibbens en de Spaansktalige poëzij fan 'e Sileenske Nobelpriiswinner Pablo Neruda en oaren.
+
+De Fryske Beweging
+ De Wikipedy hat ek in side Fryske Beweging.
+De earste organisaasjes dy't rjochte wiene op it behâld fan 'e Fryske taal en kultuer, waarden oan it begjin fan 'e njoggentjinde iuw oprjochte. De alderearste dêrfan wie it yn 1827 stifte Friesch Genootschap voor Geschied-, Oudheid- en Taalkunde, dat trouwens ornaris net ta de Fryske Beweging rekkene wurdt om't it it Nederlânsk as fiertaal brûkte en pommeranten út dit fermidden gauris negatyf sputsen en skreaune oer de emansipaasje fan it Frysk. Wichtiger foar it Frysk wie dan ek it Selskip foar Fryske Tael- en Skriftekennisse, dat oprjochte waard yn 1844.
+
+
+It Coulonhûs, de sit fan 'e Fryske Akademy.
+Oant en mei de njoggentjinde iuw hie it ûnderwiis it Frysk iuwenlang tsjinwurke of op syn bêst negearre. Noch yn 1816 waard yn it ûnderwiisalmenak de skoalmasters oanmoanne om it "vriesch boersch" yn en om 'e skoallen dochs fral net ta te litten. Tsjin it begjin fan 'e tweintichste iuw begûn men yn Fryslân lykwols te easkjen dat it Frysk as fak op 'e skoallen ûnderwiisd wurde soe. Under mear ta dat doel rjochte yn 1915 in groep jonge Fryske skriuwers de Jongfryske Mienskip op, dy't doelbewust en systematysk in kampanje fierde foar de fierdere ûntwikkeling en ferheffing fan it Frysk. In geweldich súkses wie dêrby, yn 1938, de oprjochting fan 'e Fryske Akademy, dy't him mei it yn 1941 stifte Frysk Ynstitút oan de Ryksuniversiteit Grins ta it sintrum fan 'e Fryske taalkunde ûntjoech.
+
+Op godstsjinstich mêd waarden it Kristlik Frysk Selskip, dat de protestantske denominaasjes fertsjintwurdige, en it Roomsk Frysk Bûn oprjochte, resp. yn 1908 en 1917. Dizze beide organisaasjes wiene ferantwurdlik foar it ta stân kommen fan 'e Fryske psalmberiming, it plakfinen fan 'e earste Frysktalige tsjerketsjinsten en de Fryske oersetting fan 'e Bibel, dy't yn 1943 einlik útkaam. It Roomsk Frysk Bûn waard trouwens yn 1997 opheft, hoewol't it syn wurk foar in part fuortset as de stifting Mei Alle Wille. It Kristlik Frysk Selskip waard neitiid omneamd ta Krúspunt.
+
+
+It logo fan 'e Ried fan de Fryske Beweging.
+Wer in oare organisaasje dy't it om it behâld fan it Frysk te dwaan is, is it Frysk Bûn om Utens, dat dernei stribbet om 'e bân tusken de Fryske migranten bûten de provinsje en it heitelân libben te hâlden. Ek hjoed de dei is it Frysk Bûn om Utens noch tige aktyf, mei 17 oansletten kriten, yn Apeldoarn, Arnhim, Assen, Boadegraven, De Haach, Haarlim, Hilversum, Hoarn, Hurderwyk, Lelystêd, Meppel, Seist, Súdeast-Drinte, Swol, Twinte, Utert en Wageningen. Teffens binne der twa kriten dy't net by it Bûn oansletten binne, yn Den Helder en yn Roan. Noch wer in oare Fryske organisaasje is de Federaasje fan Fryske Studinteferienings, dy't oprjochte waard yn 1930. Hjirby binne de studinteferienings F.F.J. Bernlef yn Grins en WSSFS yn Wageningen oansletten.[3]
+
+Yn 1945 besleaten al dy organisaasjes harren krêften te bondeljen en waard de Ried fan de Fryske Beweging oprjochte. Oant hjoed de dei ta fungearret dy as bewekker fan 'e Fryske kultuer en motor efter de emansipaasje fan 'e Fryske taal. Behalven de boppeneamde organisaasjes binne ek de Feriening foar in Federaal Europa, de Feriening foar Frysk Underwiis, it Frysk Amateur Toaniel, de Stichting Ons Bildt en de Stellingwarver Schrieversronte lid fan 'e Ried.
+
+
+It Saailân te Ljouwert (yn 2007), útsjend op it Paleis fan Justysje.
+Kneppelfreed
+ De Wikipedy hat ek in side Kneppelfreed.
+Dochs duorre it noch oant 'e twadde helte fan 'e tweintichste iuw foar't al dat taalaktivisme fruchten ôfsmiet en de offisjele status fan it Frysk ferbettere waard. Yndirekt wie dat it gefolch fan 'e opskuor dy't op 'e middei fan 16 novimber 1951 plakfûn op it Saailân yn Ljouwert as gefolch fan 'e rjochtsaak tsjin twa Fryske sjoernalisten, Fedde Schurer en Tsjebbe de Jong. Dy beide mannen wiene oanklage foar kwealaster, om't se har yn opinystikken yn harren kranten útsprutsen negatyf útlitten hiene oer de rjochter mr. S.R. Wolthers, dy't yn ferskate rjochtsaken wegere hie om ta te stean dat der yn 'e rjochtseal Frysk sprutsen waard.
+
+
+Stânbyld fan Fedde Schurer op It Hearrenfean (makke troch Guus Hellegers, yn 1974).
+Foar it gerjochtsgebou wie dy deis in grutte kliber folk gearkommen dy't der net yn mocht, en foar in part troch de argewaasje en de lulkens fan 'e minsken en foar in part troch it folslein ûnbehearske hâlden en dragen fan 'e plysje rûn it spul dêr alhiel út 'e klauwen. De plysje sloech sûnder ûnderskie te meitsjen mei de wapenstôk op 'e minsken yn en brûkte brânspuiten as wetterkanonnen. Dizze rebûlje is de skiednis yngien as "Kneppelfreed". De lulkens oer dit barren wie yn 'e provinsje sa grut, dat it Nederlânske regear suver yn panyk rekke by de gedachte oan in Fryske ôfskiedingsbeweging, en daliks in trijekoppige ministeriële kommisje nei Fryslân ta stjoerde om út te finen wat de minsken no eins woene.
+
+Nei jierren fan tarieding en debatten late dat yn 'e jierren 1955 en 1956 ta de ynfiering fan nije wetjouwing oangeande it Frysk. Dêrby krige it Frysk offisjeel de status fan twadde rykstaal, wat fan Nederlân trouwens net in twatalich lân lykas Kanada makke hat, want de offisjele status fan it Frysk waard beheind ta de provinsje Fryslân. Fierders krigen Friezen it rjocht om yn Fryslân harren eigen taal yn 'e rjochtseal te sprekken en om by tsjûgenissen lykfolwêr yn Nederlân de eed yn it Frysk ôf te lizzen.
+
+Nei Kneppelfreed
+Hoewol't der troch Kneppelfreed in pear grutte súksessen behelle wiene foar it Frysk, gie ek dêrnei de taalstriid troch. Sa binne neitiid út 'e Ried fan de Fryske Beweging in stikmannich organisaasjes fuortkommen dy't spesjalisearre binne op in beskaat mêd. Foarbylden dêrfan binne de Fryske Kultuerrie, dy't him útslutend mei kulturele saken dwaande hâldt, en de ûnderwilens ophefte Stifting It Fryske Boek, dy't him konsintrearre op it promoatsjen en ferkeapjen fan 'e Fryske literatuer.
+
+
+It logo fan 'e Afûk.
+Boppedat kaam yn 1962 ek de Fryske Nasjonale Partij (FNP), dy't de Fryske belangen yn 'e polityk behertigje moast, út 'e Ried fuort. Sûnt 1966 is de op 'e measte mêden loftse FNP fertsjintwurdige yn 'e Provinsjale Steaten fan Fryslân. Hoewol't it nea ien fan 'e gruttere partijen wurden is, kaam de FNP allegeduerigen op foar de Fryske taal en kultuer en – wat wichtiger wie – hie syn oanwêzigens yn 'e Steaten in net te ûnderskatten bystjoerende ynfloed op it belied fan 'e oare partijen. Mei yn 't earstoan de wolbespraakte Jan Bearn Singelsma as lieder, wûn de FNP yn 1966 ien fan 'e 55 sitten yn 'e Fryske Steaten en troch de jierren hinne is de oanhing stabyl bleaun, mei ornaris twa of trije sitten, al is der sûnt 1999 in opgeande line te bespeuren. Yn 2011 kaam de partij foar it earst yn it provinsjaal bestjoer te sitten.
+
+Fierders binne der ek guon frysksinnige organisaasjes dy't net drekt ferbûn binne mei de Ried fan de Fryske Beweging. Tige wichtich foar it behâld fan 'e Fryske taal is bygelyks de Algemiene Fryske Underrjochtskommisje, better bekend as de Afûk. Dy fersoarget al sûnt 1924 net allinne it lesmateriaal foar it Frysk as fak op 'e basis- en middelbere skoallen, mar organisearret ek folwoeksenenûnderwiis yn it Frysk, foar sawol Frysktaligen as net-Frysktaligen. Ek foaroan by it Frysktalich ûnderwiis stiet de Stifting Pjutteboartersplak, dy't ferskate Frysktalige pjutteboartersplakken yn 'e provinsje organisearre hat. En fierders is der noch it Frysk Ynternasjonaal Kontakt, in jongereinferiening dy't as doel hat kontakten te lizzen mei oare minderheiden yn Jeropa.
+
+
+Werjefte fan 'e talen dy't yn 'e provinsje Fryslân as memmetaal sprutsen wurde (yn prosinten).
+Hjoeddeistige taalsitewaasje
+Tal sprekkers
+It Frysk wurdt yn 'e provinsje Fryslân as memmetaal sprutsen troch 347.000 minsken, oftewol troch 55% fan 'e ynwenners. Yn 'e trijehoek Mearum-De Wylp-De Grinzer Pein, yn 'e provinsje Grinslân, sprekke noch likernôch 3.000 minsken Frysk. En bûten it eigen taalgebiet wurdt it sprutsen troch likernôch 150.000 Friezen om utens yn 'e rest fan Nederlân, benammentlik yn 'e Rânestêd, yn 'e stêd Grins en yn 'e Noardeastpolder. Dat binne lju dy't út Fryslân wei nei oare parten fan Nederlân ferhuze binne, in migraasjestream dy't al hast oardel iuw op grutte skaal bestiet, foar it meastepart fan lju dy't ôfkomstich binne fan it Fryske plattelân. Yn 'e perioade tusken 1880 en 1900 gie it dêrby om 100.000 minsken, tusken 1945 en 1970 op 'en nij om 100.000, en yn 'e perioade dêrtuskenyn ek noch om frijwat.[4] Yn harren nije wengebieten foarmen sokke 'lânferhuzers' Fryske kriten dy't fia it ramtwurk fan it Frysk Boun om Utens mei it heitelân ferbûn bleaune. Yn 'e Fryske kriten waarden eigen taal en kultuer, en dêrmei etnyske identiteit, yn gesellich ferkear bewarre. De kriten rekken fan 'e jierren fyftich ôf stadichoan marginalisearre doe't men net mear op inoar oanwiisd wie en de kontakten mei Fryslân troch bgl. tillefoan makliker yn stân holden wurde koene. In oansjenlik part fan 'e Friezen om utens binnen Nederlân is meitiid fierhinne yn 'e nije omkriten opgien, hoewol't oaren, faak nei har pinsjonearring nei it heitelân weromkearden.
+
+En dan is der noch de grutte Fryske diaspora yn it bûtenlân, dy't fuortkaam út'e grutte emigraasjeweach tusken de Twadde Wrâldoarloch en santiger jierren. Dêryn hie Fryslân nammentlik fan alle Nederlânske provinsjes relatyf it heechste oandiel. It wurdt rûsd dat der wol 80.000 oant 100.000 Friezen ferspraat oer de wrâld libje, mei de grutste konsintraasjes yn Kanada, de Feriene Steaten, Austraalje en Nij-Seelân. Sadwaande leit it totale oantal Frysktaligen yn 'e hiele wrâld hjoed de dei om 'e 600.000 hinne. Hjirby moat oantekene wurde dat it bân mei Fryslân foar de earste generaasje, de eigentlike lânferhuzers, oer it algemien tige sterk wie, en foar de twadde generaasje (dy't faak it Frysk noch wol ferstiet mar net mear sprekt) al in stik minder sterk. De trêde generaasje, dy't yn 'e regel ek gjin Frysk mear ferstiet, mar faak noch wol in pear wurden of sintsjes út 'e holle leard hat sûnder de betsjutting wier te begripen, giet frijwol hielendal yn it gruttere gehiel fan it nije lân op.
+
+Njonken de boppeneamde oantallen Fryske memmetaalsprekkers, kin as winst set wurde dat it Frysk as twadde taal sprutsen wurdt troch sa'n 110.000 fan hûs út net-Frysktalige ynwenners fan 'e provinsje Fryslân.
+
+
+De behearsking fan it Frysk troch de ynwen-ners fan 'e provinsje Fryslân (yn %, 1994).
+Taalbehearsking
+Oer de taalbehearsking fan it Frysk is in soad statistysk fêstlein. Begjin jierren fyftich telde ûnderwiisynspekteur Krine Boelens alle legere skoallebern yn 'e provinsje foar syn De Taal van het Schoolkind in Friesland. Twa op 'e trije spriek Frysk as memmetaal. Op it Fryske plattelân (de Stellingwerven en it Bilt bûten beskôging litten) wie dat hast 95%. De bern dy't dêr net fan hûs út Frysktalich wiene, hiene it oer it algemien dochs as twadde taal oanleard, want de mienskipstaal en dêrmei ek de bernetaal wie hast sûnder útsûndering Frysk.[5] Hast fyftjin jier letter publisearre Lieuwe Pietersen yn 1969 De Friezen en Hun Taal as it ferslach fan in represintative enkête ûnder 800 minsken. It tal lju dy't yn 'e hûs Frysk sprieken, wie net merkber feroare, mar dat wie gjin stabiliteit want op it plattelân wie it mei 10% werom rûn en yn 'e stêden mei 10% foarút gien. De feroaring op it plattelân kaam troch ynstream út 'e stêd en fan bûten Fryslân, wylst de feroaring yn 'e stêd it gefolch wie fan urbanisaasje fan plattelân ôf.
+
+Tsien jier letter waard troch ûndersikers fan 'e Ryksuniversiteit Grins op 'en nij in represintative enkête holden, diskear ûnder mear as 1.100 respondinten, sadat finere details sichtber makke wurde koene. De útkomsten dêrfan waarden troch de Fryske Akademy ûnder de titel Taal yn Fryslân publisearre yn 1984.[6] Dêrút die bliken dat it tal Frysksprekkers op it plattelân op 'en nij 10% tebekrûn wie, en dat de winst yn 'e stêd net fêstholden wurde koe. Oer it ginneraal spriek 56% fan 'e respondinten yn 'e hûs Frysk, mar mei dejingen dy't de taal as twadde taal brûkten, kaam it totaal op 73%. Ferstean koene 93% it Frysk. Dit ûndersyk waard op deselde wize werhelle yn 1994 en wiisde út dat doe fan 'e likernôch 615.000 ynwenners fan 'e provinsje Fryslân 55% it Frysk as memmetaal hie. Fierders waard fêststeld dat 94% Frysk ferstean, 74% Frysk prate, 65% Frysk lêze en 17% Frysk skriuwe koe.[7] Hjir waarden noch gjin grutte feroarings sichtber mei it ûndersyk út 1984.
+
+In enkête út 2010, dy't troch it ûndersyksburo Flycatcher holden waard ûnder 1.775 Nederlanners (en inkelde fragen nei it Frysk 'meinaam' hie), joech as útslach dat it Frysk doe noch altyd troch justjes mear as de helte fan 'e ynwenners fan Fryslân as memmetaal sprutsen waard (wat likernôch oerienkomt mei de 55% út it ûndersyk fan 1994). Neffens dizze beheinde en dus net alhiel ferlykbere enkête soe fierders fan 'e ynwenners dy't yn 'e provinsje hikke en tein wiene, 80% Frysk prate kinne en 100% Frysk ferstean kinne. Fan 'e 'ymport' joech 75% oan Frysk ferstean te kinnen en 12% dat se it dêrnjonken ek sprekke kinne.[8] In tal enkêtes op lytsere skaal dat sûnt 2010 holden waard, lit lykwols in oar en ûnderling ôfwikend byld sjen. Der blykt in groeiende ôfstân te bestean tusken it brûke kinnen en it feitlik ek brûken fan it Frysk. Benammen it tal minsken dat Frysk skriuwe kin, is ûnwis, om't yn 'e enkêtes gjin foaropstelde definysje jûn wurdt fan wat ûnder 'skreaun Frysk' ferstien wurdt. Ien wichtich gegeven fan it feroaringsproses yn in ôfrûne heale iuw is dat it Frysk foar de Frysksprekkers net mear harren sprutsen haadtaal bleaun is, mar dat hja it Nederlânsk as in folslein behearske twadde, of sels lykweardige, sprektaal leard hawwe te brûken.
+
+Yn 2018 makken taalkundigen fan 'e Fryske Akademy de útkomsten fan it taalûndersyk Taal yn Fryslân: De Folgjende Generaasje bekend, dat op gelikense wize gearstald wie as eardere ûndersiken fan 'e FA yn 1994 en 1980. Op basis fan 3.800 ynfolle online-fragelisten út 2015 waard dêrby konkludearre dat yn dat jier 48% fan 'e befolking fan Fryslân it Frysk as memmetaal hie; 29% it Nederlânsk; 12% it Frysk èn it Nederlânsk; 4% in streektaal; en 2% in útlânske taal. As men de Frysktaligen en de twataligen byinoar optelt, betsjut dat dus dat 61% fan 'e Fryske befolking it Frysk as memmetaal hie. Hoe't dat him krekt ferhâldt ta de útkomsten fan eardere ûndersiken wie ûndúdlik, mei't dit de earste kear wie dat men mear as ien memmetaal tagelyk opjaan koe. Dêrtroch wie it apels mei parren ferlykjen en koene de ûndersikers net mei wissichheid sizze oft it Frysk no terrein wûn of ferlern hie. Wol kaam út it nije ûndersyk nei foarren dat it persintaazje minsken dat Frysk skriuwe koe, licht omheech gien wie, fan 17% yn 1994 nei 18% yn 2015. De ûndersikers seagen dêryn it tanommen skriftlik gebrûk troch Frysksprekkers fan 'e eigen taal op sosjale media.[9]
+
+Dialekten
+ De Wikipedy hat ek in side Fryske dialekten.
+It Westerlauwersk Frysk kin ferdield wurde yn acht ûnderskate dialekten, dy't ûnderling yn ferskillende mjitte (fan maklik oant dreech), fersteanber binne. De fjouwer haaddialekten lykje eins sa opinoar dat der better fan taalfarianten sprutsen wurde kin. Ta dizze groep hearre de beide grutte dialekten, it Klaaifrysk en it Wâldfrysk, dy't inkeld ferskille troch de útspraak fan 'e wurden "my", "dy", "hy", "sy", "wy" en "by" en de twaklanken "ei", "ai" en "aai", mei dêropta noch in hantsjefol leksikale ferskillen. Dêrnjonken is der it Súdwesthoeksk, it meast ôfwikende fan 'e fjouwer grutte Fryske dialekten, dat him ûnderskiedt trochdat de nijere brekking dêryn nea trochfierd is. Wat dat oanbelanget, soe men stelle kinne dat dit dialekt it meast by sechstjinde-iuwske foarmen bleaun is. It fjirde haaddialekt, it Noardhoeksk,[10] dat trouwens faak as in foarm fan Klaaifrysk beskôge wurdt, hat krekt in ekstra brekkingsfoarm, de saneamde Dongeradielster brekking. Rûchwei kin men sizze dat it Klaaifrysk yn it noardwesten en westen fan Fryslân sprutsen wurdt, it Wâldfrysk yn it easten, it Súdwesthoeksk yn it súdwesten en it Noardhoeksk yn it noardeasten. Alle fjouwer hawwe dizze dialekten in grutte fersprieding en in sprekkerstal dat yn 'e tsientûzenen rint.
+
+
+De dialekten fan it Frysk.
+Njonken de fjouwer grutte dialekten besteane der ek noch fjouwer lytskes, dy't op frijwol alle mêd tsjinsteld binne oan 'e grutten. De lytse dialekten binne lokaal sprutsen taalfoarmen dy't beheind binne ta lytse mienskippen fan heechút inkele hûnderten of sels mar inkele tsientallen minsken. Trochdat se har yn isolaasje ûntjûn hawwe, wike se sterk fan it Standertfrysk ôf. Faak hawwe se âlde(re) foarmen fan it Frysk bewarre. By dizze lytse dialekten giet om it stedsdialekt fan it havenstedsje Hylpen, dat yn it ferline sterk beynfloede wurden is troch it Hollânsk fan oare kant de Sudersee, en fierders om 'e eilândialekten fan 'e Waadeilannen Skiermûntseach en Skylge.
+
+Op dat lêste eilân wurde twa Fryske taalfoarmen sprutsen, it Aastersk yn it easten, en it Skylgersk yn it westen. Dy susterdialekten wurde faninoar skaat troch it Midslânsk, yn it sintrale part fan Skylge, dat in Hollânsk dialekt is. Dizze dialekten wurde noch mar troch inkele tsientallen meast âldere minsken sprutsen. It Skiermûntseagersk is it iennichste Fryske dialekt dat noch in namfallestelsel hat, en kin dêrtroch en fanwegen syn ideosynkratyske klanklear nei alle gedachten oanmurken wurde foar it meast ôfwikende dialekt. It hat noch mar in hûnderttal sprekkers. Sawol it Skiermûntseagersk as it Hylpersk sil in sprekker fan ien fan 'e Fryske haaddialekten muoite hawwe om nei te kommen. It Aastersk en Skylgersk steane wat tichter by it Standertfrysk. Foarhinne waard ek yn it doarp Molkwar in sterk ôfwikend Frysk dialekt sprutsen, it Molkwardersk, mar dat is yn 'e njoggentjinde iuw útstoarn. Doetiidske taalkundigen ornearren dat it de meast oarsponklike foarm fan it Frysk wie.
+
+Ferlykje yn 'e ûndersteande tabel de telwurden ien oant en mei tsien yn it Standertfrysk en de fjouwer meast ôfwikende dialekten:
+
+taal	1	2	3	4	5	6	7	8	9	10
+Standertfrysk	ien	twa	trije	fjouwer	fiif	seis	sân	acht	njoggen	tsien
+Hylpersk	een	twaa	trê	fèuwer
+fouwer	fiiuw	seks	saan	acht
+akst	nèugen
+nougen	tên
+Skylgersk	ien	twae	trea	fjouwer	fiif	seks	sôn	acht	njoggen	tsjien
+Aastersk	ien	twae	trea	fjouwer	fiif	seks	sôn	acht	njuggen	tsjien
+Skiermûntseagersk	iën	twa	trooi	fjèuwer	fiif	seks	saun	acht	njuegen	tsiën
+De Fryske standerttaal
+ De Wikipedy hat ek in side Standertfrysk.
+ De Wikipedy hat ek in side Fryske stavering.
+Yn 'e lêste helte fan 'e njoggentjinde en de earste helte fan 'e tweintichste iuw is de Fryske standerttaal gearstald. De earste offisjele stavering datearret út 1879; foartiid skreau in elk mar sa't it him goedtocht. Dy earste stavering wie de saneamde Selskipsstavering, dy't yn 1948 ferfongen waard troch de Akademystavering (ek wol de âlde stavering neamd). Tsjintwurdich brûkt it Frysk de saneamde Steatestavering (oftewol de nije stavering), dy't yn 1980 ynfierd is.
+
+By de standerdisaasje fan it Frysk hawwe it Wâldfrysk, as grutste dialekt, en it Klaaifrysk, dat fanâlds de heechste status hie, fierwei de measte ynfloed hân. It Súdwesthoeksk waard frijwol bûten beskôging litten, wylst de fjouwer lytse dialekten der alhielendal part noch diel oan hân hawwe. Dochs bestiet der yn it Frysk in, foar in standerttaal, tige ûngewoane karfrijheid wat it wurdgebrûk oangiet. Hoewol't soks swierrichheden opsmyt foar oarstaligen dy't it Frysk as frjemde taal leare, binne de brûkers fan it Frysk dêr oer it algemien tige mei ynnommen. Der stiek dan ek in stoarm fan protest op doe't de Fryske Akademy yn 2013 op oanstean fan 'e Steaten in "standertwurdlist" opstelle woe, mei as doel om dy karfrijheid te beheinen.
+
+
+In dûbeltalich strjitnammeboerd yn Drachten.
+Taalgebrûk
+Yn it bestjoer en it rjochtsferkear
+Offisjele status en rjochtsjildigens
+It Frysk hat sûnt 1956 yn 'e provinsje Fryslân in offisjele status dy't gelyk is oan dy fan it Nederlânsk. Yn dat jier waard yn it Steatsblêd 1956, 242 in begjin makke mei it formeel tastien gebrûk fan it Frysk yn it rjochtsferkear. In útwreiding dêrop waard 39 jier letter fêstlein yn it Steatsblêd 1995, 440. Hoewol't it fansels yn 'e praktyk al lang barde, krigen de Friezen doe wetlik it rjocht om harren taal yn gearkomsten fan gemeenterieden en de Fryske Steaten te brûken. Yn 1997 waarden fierders by wet de mooglikheden om it Frysk yn 'e rjochtseal te brûken, ferromme, sadat no ûnder mear ek it Iepenbier Ministearje en de rjochterlike macht dêr Frysk brûke meie.
+
+De ynwenners fan Fryslân kinne sûnt jier en dei yn it Frysk mei de gemeentlike en provinsjale oerheden kommunisearje en korrespondearje. De provinsje en guon gemeenten hawwe der in beliedspunt fan makke om mear Frysk te brûken by it opstellen fan offisjele dokuminten. Troch in stikmannich wetswizigings binne sokke Fryske stikken no yn hast alle gefallen rjochtsjildich. Ien fan 'e lêste útsûnderings dêrop wiene de ferieningsstatuten, mar sûnt 2002 kinne dy ek yn it Frysk opsteld wurde. Trou- en berte-akten binne hjoed de dei yn alle Fryske gemeenten twatalich beskikber.
+
+Yn 2014 waard de Wet Gebrûk Fryske Taal fan krêft, dêr't ferskate eardere bepalings yn byinoar brocht binne. Sa is dêryn is fêstlein dat it Frysk en Nederlânsk de offisjele talen fan 'e provinsje Fryslân binne, en fierders ferplichtet dizze wet de ryksoerheid en Deputearre Steaten fan de provinsje Frysân om periodyk bestjoersôfspraken te meitsjen. In ûnderdiel fan 'e taalwet is teffens it Orgaan foar de Fryske Taal. Doel fan dy kommisje is om 'e gelikense posysje fan it Frysk en it Nederlânsk binnen de provinzje Fryslân te befoarderjen.
+
+Jeropeeske erkenning
+De Nederlânske steat hat twa ferdraggen fan de Ried fan Jeropa ratifisearre. Dêrby giet it om it Ramtferdrach foar de Beskerming fan Nasjonale Minderheden en it Jeropeesk Hânfêst foar Regionale of Minderheidstalen.[11] Yn 1996 hat de Nederlânske oerheid it Frysk opjûn ûnder Diel III (de heechste foarm) fan dat lêste ferdrach, dat 48 mooglikheden foar taalbeskerming jout. As útfiering dêrfan waard yn 2001 it Konvenant Fryske Taal en Kultuer sletten tusken de Nederlânske oerheid en de provinsje Fryslân.
+
+
+In dûbeltalich plaknammeboerd fan Seisbierrum, mei it Frysk ûnderoan.
+Fryske plak- en wetternammen
+Ek op it mêd fan 'e plaknammen hat it Frysk foarderings makke. Yn Nederlân hawwe plakken nammentlik ien offisjele namme, en dat is de namme dy't bygelyks yn notariële aktes brûkt wurde. Yn Fryslân wie foarhinne altyd de Nederlânske plaknamme de offisjele, al wiene dûbeltalige plaknammebuorden al sûnt 'e jierren fyftich fan 'e tweintichste iuw yn frijwol alle Fryske gemeenten yn gebrûk. Fan 1989 ôf binne lykwols ferskate gemeenten derta oergien om 'e Fryske plaknammen offisjeel yn 'e Gemeentelike Basisadministraasje (GBA) fêst te lizzen. Dêrby giet it om Tytsjerksteradiel (1989), Boarnsterhim (1989), Littenseradiel (1993), Ferwerderadiel (1999), Ljouwerteradiel (2009), Dantumadiel (2009) en Menameradiel (2010). De Nederlânske plaknammen hawwe yn dy gemeenten no gjin offisjele status mear, al meie se fansels bûten offisjele stikken om noch wol brûkt wurde, krekt sa't dat foarhinne mei de Fryske foarmen it gefal wie.
+
+De gemeente Ljouwerteradiel hat as iennichste fan dizze groep in offisjeel Nederlânsktalige gemeentenamme oanholden (om't Leeuwarderadeel de gemeente in bekende klank jaan soe). De gemeente Dantumadiel hat mei-iens ek alle strjitnammen yn 'e Fryske foarm yn 'e GBA fêstlein; yn 'e oare neamde gemeenten wie dat yn 'e regel net nedich om't dy al folle earder oergien wiene ta it gebrûk fan Frysktalige strjitnammen. Boppedat hawwe Provinsjale Steaten yn 1997 de offisjele provinsjenamme feroare fan "Friesland" yn "Fryslân". Yn 2004 besleat it Ministearje fan Ynlânske Saken derop ta sjen dat de foarm "Fryslân" tenei ek yn dokuminten en publikaasjes fan 'e lanlike oerheid brûkt wurde sil.[12] Fierders hat it Wetterskip Fryslân by syn oprjochting yn 2004 in Fryske namme oannommen, en yn maart 2007 binne alle wetternammen yn Fryslân, útsein in pear stedsgrêften, yn it Frysk fêstlein. De wetters yn 'e Stellingwerven hawwe doe harren Stellingwerfske nammen krigen.
+
+
+In dûbeltalich plaknammeboerd fan Hylpen, mei it it Frysk boppe-oan.
+It ferfryskjen fan geografyske nammen giet gauris mank mei in protte rebûlje. Oer it generaal kin steld wurde dat it de ûndernimmers binne dy't har der út alle macht tsjin fersette, om't it de ekonomy skea tabringe soe. Hoewol't fan soks noch nea wat bliken dien hat by de gemeenten dy't fanôf 1989 harren plaknammen ferfryske hawwe, wurdt dat ferlechje alle kearen weroan fan stâl helle. Yn 'e gemeenten Wûnseradiel en Wymbritseradiel, dy't yn 2011 opgien binne yn Súdwest-Fryslân, is op dy wize de plaknammeferfrysking ek wier-wier opkeard.
+
+Per 1 jannewaris 2014 is Boarnsterhim opheft, en it grûngebiet fan 'e eardere gemeente is ferdield oer de gemeenten Ljouwert en it Hearrenfean en de nije fúzjegemeenten Súdwest-Fryslân en De Fryske Marren. Ljouwert en it Hearrenfean hawwe in Nederlânske gemeentenamme, en binne út noch yn net fan doel om dy te ferfryskjen. Lykwols binne se troch de anneksaasje fan in diel fan Boarnsterhim foar de wet de opfolger fan dy gemeente, en om't it ûnder it Jeropeesk Hânfêst foar Regionale of Minderheidstalen simpelwei ferbean is om boargers har taalrjochten te ûntnimmen (it hawwen fan in gemeentenamme yn har eigen taal ynbegrepen), sille dy beide gemeenten úteinlik dochs omlyk moatte. In wurdfierder fan 'e Topografyske Wurkgroep Fryslân, sei dêroer yn 'e Ljouwerter Krante: "Minsken út de gemeente Boarnsterhim ha dizze namme yn har paspoart te stean. It kin net sa wêze dat de Fryske gemeentenamme yn in offisjeel dokumint plakmeitsje moat foar in Hollânsktalige namme. Dat soe in efterútgong fan de status fan in minderheidstaal betsjutte. En dat mei net." Neffens boargemaster Ferd Crone fan Ljouwert is ferfrysking fan 'e gemeentenamme lykwols net nedich, om't de Gemeentewet boppe it Jeropeesk Hânfêst giet. Dat liket tige ûnwierskynlik, mei't Jeropeeske ferdraggen oant no ta frijwol altyd foarrang krigen hawwe. Neffens de Topografyske Wurkgroep hoecht der mar ien boarger te wêzen dy't nei de rjochter stapt, en dan komt de Frysktalige gemeentenamme der gewoan. De Ried fan de Fryske Beweging hat foar dat doel al it Fryslân Fûns oprjochte, om gewoane minsken by de gong nei de rjochter finansjeel te stypjen. De Wurkgroep ferwachtet fierder ek dat ynwenners fan 'e fjouwer opfolgergemeenten fan Boarnsterhim tenei mei súkses de ferfrysking fan 'e namme fan har eigen doarp by de rjochter ôftwinge kinne sille, mei't it net sa wêze kin dat binnen ien en deselde gemeente de ynwenners fan bygelyks Wergea wol en dy fan Wurdum net rjocht hawwe op in plaknamme yn 'e eigen taal.[13]
+
+
+In Dútske postsegel út 2006, ta gelegen-heid fan it 50-jierrich bestean fan 'e Fryske Rie, wêryn't kontakten mei East-Fryslân en Noard-Fryslân ûnderholden wurde.
+Yn it ûnderwiis
+Yn it basis- en fuortset ûnderwiis
+Wat it ûnderwiis oanbelanget, waard it Frysk al yn 1937 (op opsjonele basis) as ekstra fak op 'e legere skoallen tastien, hoewol't it pas yn 1956 de status fan folweardich skoalfak krige. Yn 1980 waard it in ferplichte fak op 'e basisskoallen, en yn 1993 waard it ek ferplichte foar it earste jier fan it fuortset ûnderwiis. Ek mei it Frysk op 'e basisskoallen offisjeel brûkt wurde as lestaal (d.w.s. de taal dy't brûkt wurdt om yn les te jaan), eat dat op sa'n 80% fan 'e Fryske skoallen yn hegere of mindere mjitte dien wurdt. It brûken fan it Frysk yn it ûnderwiis is wetlik regele yn kêst 9-4 fan 'e Wet Primêr Underwiis en yn kêst 11a-2 fan 'e Wet op it Fuortset Underwiis.
+
+Yn it ramt fan it Frysk as skoalfak binne yn it basisûnderwiis gjin einnoarmen fêststeld oangeande de behearsking fan it Frysk. It fak Frysk stiet sadwaande ek net ûnder it tafersjoch fan 'e skoalynspeksje. Yn it fuortset ûnderwiis moatte skoallen it Frysk nei it (ferplichte) earste jier as fakultatyf learfak oanbiede, en dan wurde de einnoarmen troch de eksameneasken bepaald, alteast foar de learlingen dy't it yn har eksamenpakket opnommen hawwe. Skoallen kinne ûntheffing oanfreegje fan 'e ferplichting om Frysk as lesfak yn harren ûnderwiisprogram oan te bieden en in fyfdepart fan 'e skoallen yn it fuortset ûnderwiis yn Fryslân makket fan dy mooglikheid gebrûk.
+
+Yn it heger ûnderwiis
+ De Wikipedy hat ek in side Frisistyk.
+As universitêre oplieiding hie it Frysk al yn 1896 as in privaat dosintskip tagong krigen ta de Ryksuniversiteit Utert en yn 1917 ta de Ryksuniversiteit Grins. Yn 1930 kaam der in lektoraat Frysk oan 'e Ryksuniversiteit Grins, dat yn 1941 omset waard yn in folweardige learstoel. Al earder wiene oan 'e Universiteit fan Amsterdam (1934) en oan 'e Ryksuniversiteit Utert (1935) bysûndere learstuollen ta stân kommen. Yn 1951 krige fierders de Frije Universiteit yn Amsterdam in gewoane learstoel, dy't yn 1994 lykwols wer opheft waard. Op 't heden is der ien gewoane learstoel Frysk, oan 'e Ryksuniversiteit Grins, en binne der trije bysûndere learstuollen Frysk, oan 'e Universiteit Utert, de Universiteit fan Amsterdam en de Ryksuniversiteit Leien.
+
+Yn 'e media
+Yn 'e deiblêden
+Yn 'e media hat it Frysk wikseljende resultaten boekt. Yn 'e skriuwende parse wurdt it Frysk mar yn likernôch 5% fan 'e artikels brûkt yn 'e beide provinsjale kranten, de Ljouwerter Krante en it Frysk Deiblêd.[14] Op in ynternasjonale konferinsje oer twatalichheid en sjoernalistyk, dy't begjin juny 1999 yn Ljouwert holden waard, besauden Welsen, Finlânsweden, Katalanen en oare leden fan taalminderheden yn 'e Jeropeeske Uny har oer dy miste kâns. Yn oare minderheidstaalgebieten spylje nammentlik de krante(n) in wichtige rol yn 'e taalstriid, en ferskine se (hast) hielendal yn 'e minderheidstaal.[15]
+
+
+De Ljouwerter Krante mei wyklikse taheakken.
+De doetiidske haadredakteur Pieter Sijpersma fan 'e Ljouwerter Krante makke him derôf troch te sizzen dat it mei 5% Frysk yn 'e krante mear as takin. "Teveel Fries irriteert de lezers," sa wie syn ûnderfining, "De overschakeling van Nederlands naar het Fries in een artikel leidt de lezers af. Ze begrijpen het niet en ze vinden het niet mooi. Zou de krant overwegend in het Fries zijn geschreven, dan is het einde van de Leeuwarder Courant gauw in zicht." En oer de maatskiplike ferantwurdlikheid fan 'e Fryske deiblêden: "Wij voelen ons verantwoordelijk voor de krant en meer niet." Wol wurde yn 'e Ljouwerter Krante en it Frysk Deiblêd Fryske sitaten yn fierders Nederlânsktalige artikels yn it Frysk werjûn, wat unyk is foar Jeropa, mar inkeld om't yn oare kranten út minderheidsgebieten it hiele artikel yn 'e minderheidstaal steld is.[16]
+
+Ut in breed ûndersyk út 1994 die trouwens bliken dat it fral Nederlânsktaligen binne dy't har oan it Frysk yn 'e kranten steure. De measte Frysktaligen is it ien toetmem oft in artikel yn it Frysk of it Nederlânsk steld is. Neffens taalûndersiker Durk Gorter soe it dan grif ek net sa'n feart rinne mei de ein fan 'e Ljouwerter Krante as der wat mear Frysk brûkt waard.[17] Sûnt 2009 bestiet de Frysktalige ynternetkrante It Nijs, dy't oprjochte is op inisjatyf fan 'e Ried fan de Fryske Beweging, en him ta doel stelt om 'e Friezen op in folweardige manear wrâldnijs yn 'e eigen taal oan te bieden. Dit digitale deiblêd kaam neitiid lykwols yn opspraak troch amateurisme,[18] dubieuze praktiken lykas it oanhâldend bringen fan ûnkorrektheden en it wegerjen om dy te rektifisearjen,[19] en beskuldigings fan sinsuer op reäksjes fan lêzers.[20]
+
+
+Topmodel Doutzen Kroes as boechbyld fan 'e aksje Praat mar Frysk.
+Yn famyljeberjochten
+Yn 'e famyljeberjochten yn 'e beide provinsjale deiblêden wurdt wol hieltyd mear Frysk brûkt. Neffens in telling út it begjin fan 'e santiger jierren wie doe 12% fan 'e famyljeberjochten yn it Frysk, neffens in telling út 1991-1992 23% en neffens in stekproef út 2000 sa'n 30%.[21]
+
+Yn tydskriften
+Yn 1997 waard Frysk en Frij opheft, dat it lêste breed oriïntearre Frysktalige tydskrift wie. It blêd hie op it lêst 300 oant 400 abonnees en dûbeld safolle lêzers. De provinsje loek it subsydzje yn, om't Deputearre Steaten it jild effektiver oan in hûs-oan-hûsblêd bestege seagen. Dat kaam bestege seagen. Dat kaam der lykwols net, mar ta ferfanging kaam der al in stikmannich jierren de saneamde F-side dy't ien kear yn 'e wike yn 'e beide provinsjale deiblêden ferskynde. Dat wie in Frysktalige side dy't lykwols dúdlik fan in oar kaliber wie en op it mêd fan ynhâld net yn it skaad fan Frysk en Frij stean koe. Ek oare Frysktalige publikaasjes, lykas de literêre tydskriften Trotwaer, Hjir, Kistwurk en M3 binne ûnderwilens opdoekt.
+
+De iennichste echte Fryske tydskriften foar in folwoeksen publyk binne tsjintwurdich De Moanne, dêr't trouwens ek almar mear Nederlânsk yn stiet, en Ensafh. In net oan organisaasjes bûne Frysktalige parse is sadwaande yn it neigean rekke. Wol besteane der noch Frysktalige útjeften dy't organen fan ynstellings binne, lykas Swingel fan 'e Ried fan de Fryske Beweging; It Beaken fan 'e Fryske Akademy; Us Wurk fan it Frysk Ynstitút oan 'e Ryksuniversiteit Grins; De Frijbûtser, fan 'e FNP; en Each en Ear, fan Omrop Fryslân. Dizze tydskriften binne Frysktalich, behalven It Beaken dat oant de ein fan 'e tweintichste iuw ta meast Frystalich wie, mar hjoed de dei fierhinne yn it Nederlânsk en Ingelsk, en soms yn it Dútsk publisearret.
+
+Foar de jongerein binne der twa tydskriften: Switsj en LinKk, dy't beide útjûn wurde troch it Taalsintrum Frysk/CEDIN. Switsj, foar bern fan 10 oant 12 jier, bestiet sûnt 1997, en hat in oplaach fan 2.300 eksimplaren, dy't benammen nei de basisskoallen giet. LinKk is bestimd foar bern fan 12 oant 15 jier, en bestiet sûnt 2001. Dit lêste tydskrift hat in oplaach fan 3.100 eksimplaren, wat foar Fryske begripen in massamedium is.
+
+
+It gebou fan Omrop Fryslân.
+Op 'e radio
+Neffens hoe't it der mei de skreaune parse foarstiet, is it it Frysk op 'e radio better ôfgien. It earste Frysktalige radioprogramma waard útstjoerd yn 1946, troch de regionale stjoerder RONO (Regionale Omroep Noord en Oost) dy't doedestiden sawat de helte fan Nederlân besloech. Pas yn 1977 waard de provinsjale Radio Fryslân, letter omdoopt ta Omrop Fryslân, oprjochte. Tsjintwurdich stjoert dy op 'e radio tachtich oeren yn 'e wike út en is it de populêrste radiostjoerder fan 'e provinsje.
+
+Op 'e tillefyzje
+Op 'e lanlike tillefyzje stjoert Omrop Fryslân de measte wiken in programma fan likernôch in heal oere út en fierders nochris tweintich minuten skoaltillefyzje. Mei-inoar komt dat út op 37 oeren yn it jier. Sûnt 1994 fersoarget de Omrop ek regionale tillefyzje. Yn 't earstoan omfieme dat mar ien oere jûns, mei de rest fan 'e jûn werhellings, mar letter waard de stjoertiid wat útwreide. Tsjintwurdich wurdt der ek gauris live ferslach dien fan wichtige barrens, lykas in keninklik besyk, de PC of it skûtsjesilen.
+
+Op it ynternet
+Op it ynternet is in grut tal Frysktalige websteeën te finen, dy't in grut skala oan ûnderwerpen behannelje. Sa wurdt sûnt 2 septimber 2002 wurke oan 'e Fryske Wikipedy, dy't op it stuit 41.385 siden hat. Om yn it Frysk makliker tekstferwurkje te kinnen, hat it Amerikaanske IT-bedriuw Microsoft yn gearwurking mei de Fryske Akademy yn 2000 in Fryske staveringshifker ûntwikkele.[22] Foar OpenOffice is der sûnt febrewaris 2007 ek in staveringshifker. Utlis oer it ynstallearjen fan de Fryske staveringshifkers yn ferskillende programma's is te finen yn Frysk op kompjûters.
+
+
+In Frysktalige ferzje fan 'e ynternetbrowser Firefox.
+Sûnt begjin 2005 is der fan de e-blêder Opera in Fryske ferzje beskikber. Ek is der in Fryske ferzje fan 'e websneuper Firefox te krijen. Dy kin men fergees ynlade op dizze side. Yn Firefox is it ek mooglik om in Fryske staveringshifker yn te stekken. Dy kin men hjirre fine. Dêrnjonken kaam yn 2009 ek in Fryske ferzje út fan it fergeze e-mailprogramma Thunderbird 3.0, fan deselde produsint. Dy Fryske ferzje waard mei stipe fan 'e provinsje Fryslân makke troch Wim Benes en Hindrik Sijens.[23] Fierders is it Frysk ien fan 'e 45 talen wêryn't de ynternetsykmasine Google ynsteld wurde kin. Ek kaam yn novimber 2014, op 'e nij troch de ynset fan Benes en Sijens, diskear holpen troch in kloft frijwilligers, de folslein Fryske ferzje fan Facebook ôf.[24] En op it webstee www.hallofryslan.nl kinne wurden fan Frysk yn it Nederlânsk en oarsom oersetten wurde.
+
+Yn 'e keunsten
+Yn 'e literatuer
+Wat de literêre produksje oangiet, ferskynden oant foar in pear jier likernôch hûndert nije Frysktalige fiksje- en non-fiksjewurken jiers, wat hiel kreas wie foar sa'n lytse taal. De oplagen wiene ornaris altyd al frij beheind; it meast ferkochte Frysktalige boek is noch altyd de roman De Gouden Swipe (1941), fan Abe Brouwer, dêr't 30.000 eksimplaren fan oer de toanbank gien binne, al stekt Feroaring fan Lucht (1971), fan Rink van der Velde, mei 29.900 ferkochte eksimplaren, dat nei de kroan. Fan It Wrede Paradys, fan Hylke Speerstra, dat as in grut súkses beskôge wurdt, waarden 25.000 eksimplaren ferkocht.
+
+
+Jitske Kingma, oprjochtster fan Utjouwerij Elikser.
+Sûnt it útbrekken fan 'e ekonomyske krisis, yn 2008, wurde der wat minder Fryske boeken publisearre en is it dêrmei foar skriuwers en oersetters dus dreger wurden om har wurk útjûn te krijen. De beide grutte útjouwerijen op it mêd fan Frysktalige literatuer binne de Friese Pers Boekerij te Ljouwert en Utjouwerij Bornmeer op 'e Gordyk. Ferskate oare, lytsere útjouwerijen binne krektlyk op dit mêd aktyf, wêrûnder Utjouwerij Frysk en Frij en Utjouwerij Wijdemeer, al bringt de lêste mear Nederlânske as Fryske boeken út. De Afûk konsintrearret him op Frysktalich lesmateriaal en op berneboeken, wylst de Kristlik Fryske Folksbibleteek him taleit op kristlike en tradisjonele lektuer.
+
+Begjin 2014 waard de nije útjouwerij Regaad oprjochte, en ein 2013 joech de yn Hoarn fêstige Hollânske útjouwerij Hoogland & Van Klaveren oan dat se tenei ek Frysktalige boeken útbringe woene. Dêrby wiene beide lêst neamde útjouwerijen fan doel om har ta te lizzen op oersettings yn it Frysk. Op datselde terrein is ek al langere tiid Utjouwerij Elikser út Ljouwert aktyf, dy't foar de útjefte fan sok wurk, mar ek fan oarspronklike literatuer, in beskieden bydrage fan 'e skriuwer/oersetter freget. Ek ferskate algemiene Nederlânske útjouwerijen hawwe har de lêste jierren op 'e Fryske merk bejûn, bygelyks Athenaeum-Polak & Van Gennep, út Amsterdam, mei de oersetting Tsiis, fan Willem Elsschot, en Luitingh-Sijthoff, ek fêstige yn Amsterdam, mei de oersetting Ynferno, fan 'e Amerikaanske skriuwer Dan Brown.
